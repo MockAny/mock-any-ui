@@ -2,7 +2,7 @@
     "name": "mock-any-ui",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://mockany.github.io",
+    "homepage": "https://mockany.github.io/mock-any-ui",
     "dependencies": {
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
